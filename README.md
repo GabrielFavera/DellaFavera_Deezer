@@ -1,6 +1,8 @@
 # DellaFavera_Deezer Clone
 
-![alt text](https://j.gifs.com/QkW9QZ.gif)
+
+![alt text](https://imgpile.com/images/NI3Buc.jpg)
+![alt text](https://imgpile.com/images/NI3Zfo.jpg)
 
 ## About this Project
 My second job totally done in flutter, a copy of the layout of a music streamer.
