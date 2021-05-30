@@ -1,6 +1,7 @@
 # DellaFavera_Deezer Clone
 
-![alt text](https://i.imgur.com/BFVz34Z.mp4)
+<img src="https://i.imgur.com/BFVz34Z.mp4" width="40" height="40" />
+
 
 
 ## About this Project
