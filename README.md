@@ -1,6 +1,6 @@
 # DellaFavera_Deezer Clone
 
-##About this Project
+## About this Project
 My second job totally done in flutter, a copy of the layout of a music streamer.
 
 ##The idea of the App is:
