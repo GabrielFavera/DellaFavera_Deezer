@@ -1,6 +1,7 @@
 # DellaFavera_Deezer Clone
 
-<iframe src="//gifs.com/embed/tela-QkW9QZ" frameborder="0" scrolling="no" width="288px" height="640px" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);"></iframe>
+![alt text](https://i.imgur.com/BFVz34Z.mp4)
+
 
 ## About this Project
 My second job totally done in flutter, a copy of the layout of a music streamer.
