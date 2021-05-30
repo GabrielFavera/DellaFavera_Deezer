@@ -2,7 +2,7 @@
 
 
 
-<img src="https://j.gifs.com/ywPL0g.gif" width="143" height="318" />
+<img src="https://u.cubeupload.com/gfavera/WhatsAppVideo2021053.gif" width="143" height="318" />
 
 
 
