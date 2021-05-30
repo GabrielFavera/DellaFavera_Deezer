@@ -1,13 +1,9 @@
 # DellaFavera_Deezer Clone
 
-
-
-<img src="https://u.cubeupload.com/gfavera/WhatsAppVideo2021053.gif" width="143" height="318" />
-<img src="https://u.cubeupload.com/gfavera/975WhatsAppVideo2021053.gif" width="143" height="318" />
-<img src="https://u.cubeupload.com/gfavera/9bbWhatsAppVideo2021053.gif" width="143" height="318" />
 <img src="https://u.cubeupload.com/gfavera/9cbWhatsAppVideo2021053.gif" width="143" height="318" />
-
-
+<img src="https://u.cubeupload.com/gfavera/9bbWhatsAppVideo2021053.gif" width="143" height="318" />
+<img src="https://u.cubeupload.com/gfavera/975WhatsAppVideo2021053.gif" width="143" height="318" />
+<img src="https://u.cubeupload.com/gfavera/WhatsAppVideo2021053.gif" width="143" height="318" />
 
 ## About this Project
 My second job totally done in flutter, a copy of the layout of a music streamer.
