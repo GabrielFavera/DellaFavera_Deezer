@@ -1,6 +1,6 @@
 # DellaFavera_Deezer Clone
 
-<img src="https://j.gifs.com/QkW9QZ.gif" width="40" height="40" />
+<img src="https://j.gifs.com/QkW9QZ.gif" width="288" height="640" />
 
 
 
