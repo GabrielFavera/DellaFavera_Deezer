@@ -3,10 +3,10 @@
 ## About this Project
 My second job totally done in flutter, a copy of the layout of a music streamer.
 
-##The idea of the App is:
+## The idea of the App is:
 Train my reproduction of layouts using the flutter.
 
-##Why?
+## Why?
 With the need to reproduce screens, sometimes we encounter problems and doubts along the way, the goal is to learn how to get around these problems and thus solve my own doubts.
 
 Also, you can use this Project as you wish, be for study, be for make improvements or earn money with it!
