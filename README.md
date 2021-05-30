@@ -1,5 +1,7 @@
 # DellaFavera_Deezer Clone
 
+![alt text](https://media1.tenor.com/images/32f9044dc0e5454bcfbd62a46476b270/tenor.gif?itemid=14056663)
+
 ## About this Project
 My second job totally done in flutter, a copy of the layout of a music streamer.
 
