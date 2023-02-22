@@ -33,7 +33,7 @@ https://www.linkedin.com/in/gabrielfavera/
 
 Website made in flutter
 
-https://gabrieldellafavera.000webhostapp.com/
+https://gabriel-della-favera.web.app/
 
 Thank you!
 
